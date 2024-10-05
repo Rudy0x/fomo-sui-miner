@@ -1,0 +1,1 @@
+# fomo-sui-miner
